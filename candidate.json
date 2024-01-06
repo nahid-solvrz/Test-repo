@@ -1,0 +1,62 @@
+[
+  {
+    "_id": 1,
+    "avatar": "https://plus.unsplash.com/premium_photo-1664870883044-0d82e3d63d99?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "coverPhoto": "https://images.unsplash.com/photo-1560697529-7236591c0066?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Darlene Robertson",
+    "designation": "UI Designer",
+    "location": "London, UK",
+    "hourlyRate": "99",
+    "tags": ["App", "Design", "Digital"],
+    "destination": { "min": 0, "max": 10 },
+    "category": "Residential",
+    "gender": "Female",
+    "created_at": "Last Hour",
+    "experience": "Fresh",
+    "qualification": "Certificate",
+    "languages": ["English", "Spanish"],
+    "about": "Passionate UI Designer with a fresh perspective. Skilled in creating user-friendly interfaces for digital applications. Fluent in English and Spanish.",
+    "education": [
+      {
+        "institution": "University of Arts London",
+        "degree": "Bachelor of Arts in Design",
+        "graduationYear": 2020,
+        "aboutEducation": "Studied various design disciplines, including user interface and experience design. Developed skills in visual communication and digital media."
+      },
+      {
+        "institution": "London School of Design",
+        "degree": "Certificate in UI/UX Design",
+        "graduationYear": 2019,
+        "aboutEducation": "Focused on practical aspects of UI/UX design, gaining hands-on experience in creating effective and visually appealing digital interfaces."
+      }
+    ],
+    "workExperience": [
+      {
+        "position": "Junior UI Designer",
+        "company": "Digital Innovations Ltd",
+        "startDate": "2021-03-01",
+        "endDate": "2022-05-15",
+        "aboutWork": "Contributed to the design and development of user interfaces for various digital projects. Collaborated with cross-functional teams to ensure a seamless user experience."
+      },
+      {
+        "position": "Intern UI/UX Designer",
+        "company": "Creative Solutions Inc",
+        "startDate": "2020-06-01",
+        "endDate": "2021-02-28",
+        "aboutWork": "Gained practical experience in UI/UX design by working on real-world projects. Assisted in creating wireframes, mockups, and interactive prototypes."
+      }
+    ],
+    "awards": [
+      {
+        "title": "Outstanding UI Design",
+        "year": 2022,
+        "description": "Received the Outstanding UI Design award for the innovative and visually appealing user interfaces created for a mobile app project."
+      },
+      {
+        "title": "Rising Star in Design",
+        "year": 2021,
+        "description": "Recognized as a Rising Star in the design industry for outstanding contributions to user experience and interface design."
+      }
+    ]
+  }
+]
