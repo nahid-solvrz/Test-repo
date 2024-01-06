@@ -57,6 +57,11 @@
         "year": 2021,
         "description": "Recognized as a Rising Star in the design industry for outstanding contributions to user experience and interface design."
       }
-    ]
+    ],
+    "contactInfo": {
+      "email": "darlene.robertson@example.com",
+      "phone": "+44 123 456 7890",
+      "website": "www.darlene-robertson.com"
+    }
   }
 ]
