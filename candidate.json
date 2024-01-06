@@ -7,14 +7,24 @@
     "designation": "UI Designer",
     "location": "London, UK",
     "hourlyRate": "99",
-    "tags": ["App", "Design", "Digital"],
-    "destination": { "min": 0, "max": 10 },
+    "tags": [
+      "App",
+      "Design",
+      "Digital"
+    ],
+    "destination": {
+      "min": 0,
+      "max": 10
+    },
     "category": "Residential",
     "gender": "Female",
     "created_at": "Last Hour",
     "experience": "Fresh",
     "qualification": "Certificate",
-    "languages": ["English", "Spanish"],
+    "languages": [
+      "English",
+      "Spanish"
+    ],
     "about": "Passionate UI Designer with a fresh perspective. Skilled in creating user-friendly interfaces for digital applications. Fluent in English and Spanish.",
     "education": [
       {
@@ -62,6 +72,13 @@
       "email": "darlene.robertson@example.com",
       "phone": "+44 123 456 7890",
       "website": "www.darlene-robertson.com"
-    }
+    },
+    "skills": [
+      "User Interface Design",
+      "User Experience Design",
+      "Visual Communication",
+      "Digital Media",
+      "Wireframing"
+    ]
   }
 ]
